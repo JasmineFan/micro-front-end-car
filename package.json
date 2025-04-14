@@ -1,0 +1,11 @@
+{
+  "name": "micro-front-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {  
+    "start":"node ./build/run.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
